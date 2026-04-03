@@ -81,6 +81,13 @@ fun_fact   : I automate things so I can be lazy efficiently 😄
 </div>
 
 ---
+<h2 align="center">🔥 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badmunda05&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+---
 
 ### 🤖 What I Build
 
