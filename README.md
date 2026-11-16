@@ -41,18 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="./metrics.svg" width="100%"/>
-
-<sub>⚠️ Shows once you run the "Generate Metrics" workflow one time (Actions tab → run it → it commits `metrics.svg` to this repo) — see `.github/workflows/metrics.yml`. The old `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` cards are gone from here on purpose: that specific free service is currently returning `402` (upstream payment/quota wall, not a rate limit that clears on its own), which is what made both cards show as broken.</sub>
-
-<br/>
-
-<a href="https://git.io/streak-stats"><img height="165" src="https://streak-stats.demolab.com?user=Badmunda05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9B8FF&fire=C9B8FF&currStreakLabel=C9B8FF&sideLabels=8B949E&dates=8B949E"/></a>
-
----
-
 ### 🔥 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badmunda05&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=c9b8ff&line=c9b8ff&point=ffffff" width="100%"/>
