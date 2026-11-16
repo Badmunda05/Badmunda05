@@ -1,119 +1,133 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Badmunda05&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20API%20Craftsman&descAlignY=62&descSize=17&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1f2e,70:2d1b4e,100:0d1117&height=220&section=header&text=Hey,%20I'm%20Badmunda05&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20API%20Craftsman&descAlignY=58&descSize=18&descColor=c9b8ff&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Web+Apps+%F0%9F%8C%90;Crafting+Telegram+Bots+%F0%9F%A4%96;Designing+REST+APIs+%E2%9A%A1;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=C9B8FF&center=true&vCenter=true&width=650&lines=Building+Web+Apps+%F0%9F%8C%90;Crafting+Telegram+Bots+%F0%9F%A4%96;Designing+REST+APIs+%E2%9A%A1;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Badmunda05&color=ffffff&style=flat-square&label=Profile+Views)](https://github.com/Badmunda05)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Badmunda05?style=flat-square&color=ffffff&labelColor=161b22&logo=github&label=Followers)](https://github.com/Badmunda05?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=Badmunda05&color=c9b8ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/Badmunda05?style=for-the-badge&color=c9b8ff&labelColor=0d1117&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-c9b8ff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<table align="center">
+<tr>
+<td width="70%" valign="top">
 
-```yaml
-name       : Badmunda05
-location   : India 🇮🇳
-focus      : Web Development · Telegram Bots · REST APIs
-learning   : Always something new 📚
-available  : Open to collaborations ✅
-fun_fact   : I automate things so I can be lazy efficiently 😄
-```
+<img src="./assets/about-card.svg" width="100%"/>
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<br/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 **Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Bots & Automation**
-
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Python-Telegram-Bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+**Bots & Userbots**
+<br/>
+<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram_Userbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp_Userbot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=for-the-badge&logo=python&logoColor=white"/>
 
 **Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VPS_Management-1a1f2e?style=for-the-badge&logoColor=c9b8ff"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Badmunda05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&icon_color=c9b8ff&text_color=8b949e&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badmunda05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=8b949e"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Badmunda05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badmunda05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+<br/>
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Badmunda05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9B8FF&fire=C9B8FF&currStreakLabel=C9B8FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Badmunda05&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+### 🏆 Trophies
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Badmunda05&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 
 ---
-<h2 align="center">🔥 Activity Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badmunda05&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-</p>
+### 🔥 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Badmunda05&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=c9b8ff&line=c9b8ff&point=ffffff" width="100%"/>
 
 ---
 
 ### 🤖 What I Build
 
+</div>
+
 | Type | What |
-|------|------|
+|:---:|:---|
 | 🌐 **Web Apps** | Full-stack apps with clean UI and fast backends |
-| 🤖 **Telegram Bots** | Automation bots, info bots, utility tools |
+| 🤖 **Telegram Bots & Userbots** | Automation bots, info bots, userbots, utility tools |
+| 💬 **WhatsApp Userbots** | Self-bots & automation on WhatsApp |
 | ⚡ **REST APIs** | Scalable APIs with proper auth & documentation |
+| 🖥️ **VPS & Deployment** | Setting up, securing and running bots/apps on a VPS |
+
+<div align="center">
 
 ---
 
 ### 📫 Get in Touch
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Badmunda05-181717?style=for-the-badge&logo=github)](https://github.com/Badmunda05)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Badmunda05)
-
-</div>
+<img src="https://img.shields.io/badge/GitHub-Badmunda05-181717?style=for-the-badge&logo=github"/>
+<a href="https://t.me/PBXCHATS"><img src="https://img.shields.io/badge/Telegram-Chat-c9b8ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://t.me/PBX_UPDATE"><img src="https://img.shields.io/badge/Telegram-Updates-c9b8ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
 
 ---
 
-<div align="center">
-
 *"First, solve the problem. Then, write the code."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1f2e,70:2d1b4e,100:0d1117&height=120&section=footer"/>
 
 </div>
