@@ -81,12 +81,12 @@
 
 ### 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Badmunda05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&icon_color=c9b8ff&text_color=8b949e&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badmunda05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=8b949e"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Badmunda05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&icon_color=c9b8ff&text_color=8b949e&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badmunda05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=8b949e"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Badmunda05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9B8FF&fire=C9B8FF&currStreakLabel=C9B8FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img height="165" src="https://streak-stats.demolab.com?user=Badmunda05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9B8FF&fire=C9B8FF&currStreakLabel=C9B8FF&sideLabels=8B949E&dates=8B949E"/></a>
 
 <br/>
 
