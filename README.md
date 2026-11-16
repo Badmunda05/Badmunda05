@@ -37,62 +37,19 @@
 
 ### 🛠️ Tech Stack
 
-<br/>
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-**Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-**Bots & Userbots**
-<br/>
-<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram_Userbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/WhatsApp_Userbot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/python--telegram--bot-2CA5E0?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Tools & Infra**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VPS_Management-1a1f2e?style=for-the-badge&logoColor=c9b8ff"/>
+<img src="./assets/skills-card.svg" width="100%"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Badmunda05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&icon_color=c9b8ff&text_color=8b949e&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badmunda05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=8b949e"/>
+<img src="./metrics.svg" width="100%"/>
+
+<sub>⚠️ Shows once you run the "Generate Metrics" workflow one time (Actions tab → run it → it commits `metrics.svg` to this repo) — see `.github/workflows/metrics.yml`. The old `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` cards are gone from here on purpose: that specific free service is currently returning `402` (upstream payment/quota wall, not a rate limit that clears on its own), which is what made both cards show as broken.</sub>
 
 <br/>
 
 <a href="https://git.io/streak-stats"><img height="165" src="https://streak-stats.demolab.com?user=Badmunda05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9B8FF&fire=C9B8FF&currStreakLabel=C9B8FF&sideLabels=8B949E&dates=8B949E"/></a>
-
-<br/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Badmunda05&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 
 ---
 
