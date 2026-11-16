@@ -1,5 +1,4 @@
-name: Generate Metrics (self-hosted stats backup)
-
+name: Generate Metrics (primary stats source)
 
 on:
   schedule:
